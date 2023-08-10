@@ -1,0 +1,8 @@
+client/node_modules/
+client/dist/
+client/.env
+
+crowdfundingdapp/node_modules/
+crowdfundingdapp/artifacts-zk/
+crowdfundingdapp/cache-zk/
+crowdfundingdapp/.env
